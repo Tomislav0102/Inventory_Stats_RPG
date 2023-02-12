@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d91e7f114162540852f211098fcf72, type: 3}
+  m_Name: consum_scroll of strength
+  m_EditorClassIdentifier: 
+  Name: Scroll of Strength
+  Description: Scroll of Raise Strength. Strength is increased by 10 points for 30
+    seconds
+  Sprite: {fileID: 21300000, guid: db427fab3e94daf4caa704d9314a77a1, type: 3}
+  itemType: 1
+  durablity: 10
+  equipType: 0
+  damage: 0
+  ACbonus: 0
+  stackable: 1
+  stackMax: 999
+  statToChange: 0
+  increaseValue: 10
+  increasePercentage: 0
+  rampUpTime: 0
+  buffTime: 30
+  hasTickBehaviour: 0
+  tickRateOfFire: 0
+  useType: 3
+  useAmmout: 1
+  extraBonuses: []

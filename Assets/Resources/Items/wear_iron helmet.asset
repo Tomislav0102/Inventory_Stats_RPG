@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d91e7f114162540852f211098fcf72, type: 3}
+  m_Name: wear_iron helmet
+  m_EditorClassIdentifier: 
+  Name: Iron Helmet
+  Description: Strong helmet, protects the head.
+  Sprite: {fileID: 21300000, guid: fd6e4fc32c78509458fc45ea4a478ba8, type: 3}
+  itemType: 0
+  durablity: 300
+  equipType: 2
+  damage: 0
+  ACbonus: 3
+  stackable: 0
+  stackMax: 0
+  statToChange: 0
+  increaseValue: 0
+  increasePercentage: 1
+  rampUpTime: 0
+  buffTime: 0
+  hasTickBehaviour: 0
+  tickRateOfFire: 0
+  useType: 0
+  useAmmout: 0
+  extraBonuses: []
